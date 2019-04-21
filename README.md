@@ -6,3 +6,5 @@ One repo that contains a list of my SVG pet projects.
 2. Line Animation - Exploring drawing a logo. Simple SVG dash-offset and rotate animation.
 
 3. CSS Animation properties - Understanding CSS properties and how they are configured for animating all kinds of SVG shapes. Keyframes using either FROM/TO or percentages.
+
+4. Cursive Animation - Taking a simple hand-drawn SVG and animating a "signature".
