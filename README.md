@@ -12,3 +12,5 @@ One repo that contains a list of my SVG pet projects.
 5. Social Icons - Exploring simple Social Media icon animations using past projects as reference.
 
 6. Gradients - Applying simple stop tags to defs for a linear gradient on text and shapes.
+
+7. Textures - Exploring images behind SVG shapes & text.
