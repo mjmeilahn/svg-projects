@@ -14,3 +14,5 @@ One repo that contains a list of my SVG pet projects.
 6. Gradients - Applying simple stop tags to defs for a linear gradient on text and shapes.
 
 7. Textures - Exploring images behind SVG shapes & text.
+
+8. Masks - Animating an infinite mask moving left to right over SVG shapes & text.
